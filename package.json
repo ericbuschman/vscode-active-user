@@ -4,6 +4,7 @@
 	"description": "This extension displays the current VS Code user context in the toolbar",
 	"version": "0.0.1",
 	"author": {"name":"Eric Buschman"},
+	"publisher": "EricBuschman",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
