@@ -1,6 +1,6 @@
-# vscode-active-user README
+# active-user README
 
-This is the README for your extension "vscode-active-user". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "active-user". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
