@@ -5,6 +5,7 @@
 	"version": "0.0.1",
 	"author": {"name":"Eric Buschman"},
 	"publisher": "EricBuschman",
+	"repository": {"url": "https://github.com/ericbuschman/vscode-active-user"},
 	"engines": {
 		"vscode": "^1.42.0"
 	},
