@@ -2,7 +2,7 @@
 	"name": "active-user",
 	"displayName": "Active User",
 	"description": "This extension displays the current VS Code user context in the toolbar",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": {"name":"Eric Buschman"},
 	"publisher": "EricBuschman",
 	"repository": {"url": "https://github.com/ericbuschman/vscode-active-user"},
