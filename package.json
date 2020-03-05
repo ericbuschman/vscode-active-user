@@ -3,6 +3,7 @@
 	"displayName": "VSCode Active User",
 	"description": "This extension displays the current VS Code user context in the toolbar",
 	"version": "0.0.1",
+	"author": {"name":"Eric Buschman"},
 	"engines": {
 		"vscode": "^1.42.0"
 	},
@@ -10,14 +11,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"*"
 	],
 	"main": "./out/extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "statusbar.showCurrentUser",
+				"title": "Active User"
 			}
 		]
 	},
